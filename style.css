@@ -141,7 +141,7 @@ div#extra {
     box-shadow: 1px 1px 1px 1px #00000017;
     padding: 10px;
     max-width: 1000px;
-    min-width: 385px;
+    min-width: 395px;
 }
 
 div {
@@ -149,7 +149,7 @@ div {
     box-shadow: 1px 1px 1px 1px #00000017;
     padding: 10px;
     max-width: 1000px;
-    min-width: 385px;
+    min-width: 395px;
 }
 
 div#video {
@@ -157,7 +157,7 @@ div#video {
     box-shadow: 1px 1px 1px 1px #00000017;
     padding: 10px;
     max-width: 1000px;
-    min-width: 385px;
+    min-width: 395px;
     text-align: center;
     background-color: #1a5c38;
     position: relative;
