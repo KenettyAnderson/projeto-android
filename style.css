@@ -150,7 +150,6 @@ div {
     padding: 10px;
     max-width: 1000px;
     min-width: 375px;
-    background-color: white;
 }
 
 div#video {
@@ -214,9 +213,4 @@ div a::after {
 
 div#extra a::after {
     content: '\1f517';
-}
-
-.pextra{
-    text-align: center;
-    padding: 10px;
 }
